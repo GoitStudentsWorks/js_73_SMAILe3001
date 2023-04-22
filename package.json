@@ -2,10 +2,10 @@
   "name": "project-group-12",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SMAILe3001.github.io/project-group-12",
+  "homepage": "https://GoitStudentsWorks.github.io/js_73_SMAILe3001",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-group-12/"
+    "build": "parcel build src/*.html --public-url /js_73_SMAILe3001/"
   },
   "repository": {
     "type": "git",
